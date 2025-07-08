@@ -14,7 +14,7 @@ End-to-end machine learning solution to forecast customer booking behavior using
 │ ├── British_Airways-Task2.pptx
 │ └── README.md
 │
-└── README.md```
+└── README.md
 
 ## ✈️ Task 1: Modeling Lounge Eligibility at Heathrow Terminal 3
 
