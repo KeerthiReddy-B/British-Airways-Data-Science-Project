@@ -4,18 +4,17 @@ End-to-end machine learning solution to forecast customer booking behavior using
 ## 📁 Project Structure
 british-airways-data-science-project/
 ├── task-1-lounge-eligibility/
-│   ├── British Airways Summer Schedule Dataset.xlsx
-│   ├── Lounge Eligibility Lookup Template - Task 1.xlsx
-│   └── README.md
+│ ├── British Airways Summer Schedule Dataset.xlsx
+│ ├── Lounge Eligibility Lookup Template - Task 1.xlsx
+│ └── README.md
 │
 ├── task-2-customer-behavior/
-│   ├── customer_booking-Task2.csv
-│   ├── Customer Buying Behaviour-Task2.ipynb
-│   ├── British_Airways-Task2.pptx
-│   └── README.md
-
-
----
+│ ├── customer_booking-Task2.csv
+│ ├── Customer Buying Behaviour-Task2.ipynb
+│ ├── British_Airways-Task2.pptx
+│ └── README.md
+│
+└── README.md
 
 ## ✈️ Task 1: Modeling Lounge Eligibility at Heathrow Terminal 3
 
