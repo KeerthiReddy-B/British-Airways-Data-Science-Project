@@ -2,7 +2,8 @@
 End-to-end machine learning solution to forecast customer booking behavior using real-world airline data.
 
 ## 📁 Project Structure
-```british-airways-data-science-project/
+```
+british-airways-data-science-project/
 ├── task-1-lounge-eligibility/
 │ ├── British Airways Summer Schedule Dataset.xlsx
 │ ├── Lounge Eligibility Lookup Template - Task 1.xlsx
@@ -14,7 +15,8 @@ End-to-end machine learning solution to forecast customer booking behavior using
 │ ├── British_Airways-Task2.pptx
 │ └── README.md
 │
-└── README.md```
+└── README.md
+```
 
 ---
 
