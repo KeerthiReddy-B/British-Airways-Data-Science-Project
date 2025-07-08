@@ -24,7 +24,7 @@ british-airways-data-science-project/
 
 **Objective:**  
 Estimate lounge demand by modeling customer eligibility based on flight schedule data.
-
+ 
 **Key Deliverables:**
 - Review of eligibility criteria based on customer groups and flight data
 - A reusable lookup table to assess lounge eligibility
